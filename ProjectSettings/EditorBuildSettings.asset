@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Photon Unity Networking/PhotonCustom.unity
+    guid: 98a1225727e4f4466b4d8b171113c586
+  - enabled: 1
+    path: Assets/Scenes/ARKitMapbox.unity
+    guid: 38769c79375784d18a3cfc4fad88781c

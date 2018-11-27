@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2461683d20cc254fbcff442da3bbd19, type: 3}
+  m_Name: BezierSample
+  m_EditorClassIdentifier: 
+  data:
+    cps:
+    - position: {x: 0, y: 0, z: 0}
+    - position: {x: 1, y: -1, z: 0}
+    - position: {x: 2, y: 1, z: 0}
+    - position: {x: 3, y: 0, z: 0}
+    modes: 0000000000000000
+    bezierLength: 3.2720876
+    bezierBoundingSize: {x: 0, y: 0, z: 0}
+    bezierBoundingCenter: {x: 0, y: 0, z: 0}
+    bezierCurvesLength:
+    - 3.2720876
+    normalizeBezierPoints:
+    - 1
+    loop: 0

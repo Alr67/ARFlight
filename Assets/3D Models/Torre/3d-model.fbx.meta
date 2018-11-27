@@ -1,0 +1,478 @@
+fileFormatVersion: 2
+guid: ad7ca2d4d8a7d6b4da309bc5b7adbf09
+timeCreated: 1508003246
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: .com#3_001
+    100002: .com#4_001
+    100004: //RootNode
+    100006: easyJet#12_001
+    100008: easyJet#15_001
+    100010: easyJet#16_001
+    100012: easyJet#1_001
+    100014: easyJet#8_001
+    100016: easyJet#9_001
+    100018: Group#27_001
+    100020: Group#27_003
+    100022: Group#3_001
+    100024: Group#3_002
+    100026: Group_002
+    100028: Group_003
+    100030: Group_004
+    100032: Group_005
+    100034: Group_007
+    100036: Group_008
+    100038: Group_009
+    100040: Group_010
+    100042: Group_011
+    100044: Group_012
+    100046: Group_013
+    100048: Group_014
+    100050: Group_015
+    100052: Group_016
+    100054: Group_017
+    100056: Group_018
+    100058: Group_019
+    100060: Group_021
+    100062: Group_022
+    100064: Group_023
+    100066: Group_024
+    100068: Group_025
+    100070: Group_026
+    100072: Group_027
+    100074: Group_028
+    100076: Group_029
+    100078: Group_030
+    100080: Group_031
+    100082: Group_033
+    100084: Group_034
+    100086: Group_035
+    100088: Layer0_001
+    100090: ske1CF_001
+    100092: the web's favour#1_001
+    100094: the web's favour#2_001
+    400000: .com#3_001
+    400002: .com#4_001
+    400004: //RootNode
+    400006: easyJet#12_001
+    400008: easyJet#15_001
+    400010: easyJet#16_001
+    400012: easyJet#1_001
+    400014: easyJet#8_001
+    400016: easyJet#9_001
+    400018: Group#27_001
+    400020: Group#27_003
+    400022: Group#3_001
+    400024: Group#3_002
+    400026: Group_002
+    400028: Group_003
+    400030: Group_004
+    400032: Group_005
+    400034: Group_007
+    400036: Group_008
+    400038: Group_009
+    400040: Group_010
+    400042: Group_011
+    400044: Group_012
+    400046: Group_013
+    400048: Group_014
+    400050: Group_015
+    400052: Group_016
+    400054: Group_017
+    400056: Group_018
+    400058: Group_019
+    400060: Group_021
+    400062: Group_022
+    400064: Group_023
+    400066: Group_024
+    400068: Group_025
+    400070: Group_026
+    400072: Group_027
+    400074: Group_028
+    400076: Group_029
+    400078: Group_030
+    400080: Group_031
+    400082: Group_033
+    400084: Group_034
+    400086: Group_035
+    400088: Layer0_001
+    400090: ske1CF_001
+    400092: the web's favour#1_001
+    400094: the web's favour#2_001
+    2300000: .com#3_001
+    2300002: .com#4_001
+    2300004: easyJet#12_001
+    2300006: easyJet#15_001
+    2300008: easyJet#16_001
+    2300010: easyJet#1_001
+    2300012: easyJet#8_001
+    2300014: easyJet#9_001
+    2300016: Group#27_001
+    2300018: Group#27_003
+    2300020: Group#3_001
+    2300022: Group#3_002
+    2300024: Group_002
+    2300026: Group_003
+    2300028: Group_004
+    2300030: Group_005
+    2300032: Group_007
+    2300034: Group_008
+    2300036: Group_009
+    2300038: Group_010
+    2300040: Group_011
+    2300042: Group_012
+    2300044: Group_013
+    2300046: Group_014
+    2300048: Group_015
+    2300050: Group_016
+    2300052: Group_017
+    2300054: Group_018
+    2300056: Group_019
+    2300058: Group_021
+    2300060: Group_022
+    2300062: Group_023
+    2300064: Group_024
+    2300066: Group_025
+    2300068: Group_026
+    2300070: Group_027
+    2300072: Group_028
+    2300074: Group_029
+    2300076: Group_030
+    2300078: Group_031
+    2300080: Group_033
+    2300082: Group_034
+    2300084: Group_035
+    2300086: Layer0_001
+    2300088: ske1CF_001
+    2300090: the web's favour#1_001
+    2300092: the web's favour#2_001
+    3300000: .com#3_001
+    3300002: .com#4_001
+    3300004: easyJet#12_001
+    3300006: easyJet#15_001
+    3300008: easyJet#16_001
+    3300010: easyJet#1_001
+    3300012: easyJet#8_001
+    3300014: easyJet#9_001
+    3300016: Group#27_001
+    3300018: Group#27_003
+    3300020: Group#3_001
+    3300022: Group#3_002
+    3300024: Group_002
+    3300026: Group_003
+    3300028: Group_004
+    3300030: Group_005
+    3300032: Group_007
+    3300034: Group_008
+    3300036: Group_009
+    3300038: Group_010
+    3300040: Group_011
+    3300042: Group_012
+    3300044: Group_013
+    3300046: Group_014
+    3300048: Group_015
+    3300050: Group_016
+    3300052: Group_017
+    3300054: Group_018
+    3300056: Group_019
+    3300058: Group_021
+    3300060: Group_022
+    3300062: Group_023
+    3300064: Group_024
+    3300066: Group_025
+    3300068: Group_026
+    3300070: Group_027
+    3300072: Group_028
+    3300074: Group_029
+    3300076: Group_030
+    3300078: Group_031
+    3300080: Group_033
+    3300082: Group_034
+    3300084: Group_035
+    3300086: Layer0_001
+    3300088: ske1CF_001
+    3300090: the web's favour#1_001
+    3300092: the web's favour#2_001
+    4300000: easyJet#16_001
+    4300002: easyJet#15_001
+    4300004: Group_035
+    4300006: Group_034
+    4300008: Group_033
+    4300010: Group_031
+    4300012: Group_030
+    4300014: Group_029
+    4300016: Group_028
+    4300018: Group_027
+    4300020: Group_026
+    4300022: Group_025
+    4300024: Group_024
+    4300026: Group#27_003
+    4300028: the web's favour#2_001
+    4300030: the web's favour#1_001
+    4300032: Group_023
+    4300034: Group_022
+    4300036: Group_021
+    4300038: Group_019
+    4300040: Group_018
+    4300042: Group_017
+    4300044: Group_016
+    4300046: Group_015
+    4300048: Group_014
+    4300050: Group_013
+    4300052: Group_012
+    4300054: Group#27_001
+    4300056: Group#3_002
+    4300058: Group#3_001
+    4300060: Group_011
+    4300062: .com#4_001
+    4300064: easyJet#12_001
+    4300066: .com#3_001
+    4300068: easyJet#1_001
+    4300070: Group_010
+    4300072: Group_009
+    4300074: Group_008
+    4300076: Group_007
+    4300078: Group_005
+    4300080: Group_004
+    4300082: easyJet#9_001
+    4300084: easyJet#8_001
+    4300086: Group_003
+    4300088: Group_002
+    4300090: ske1CF_001
+    4300092: Layer0_001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 442944a9f9d9e8c4a97241bca38eb69a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Group#3_001
+    second: {fileID: 2100000, guid: e044608020d6d724ab53f1396604cc96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Group_001
+    second: {fileID: 2100000, guid: 403f003a4c22d0f448cf976fecfe53cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Group_002
+    second: {fileID: 2100000, guid: ed25773f1b30d414b8311a653cecbbf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Group_004
+    second: {fileID: 2100000, guid: f7c502094d74f8e4589bb4b53b5c76db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Group_005
+    second: {fileID: 2100000, guid: 4bc71067b46836f45b7950194c91f0ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Group_006
+    second: {fileID: 2100000, guid: 6f83aa62b4613c24ca67bf741c4a035d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Group_007
+    second: {fileID: 2100000, guid: 40f77ae8c79b1214486740304842c524, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Group_008
+    second: {fileID: 2100000, guid: 7125301cdca2c3c4ca360465b315f36b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Group_009
+    second: {fileID: 2100000, guid: c24702b7d7d74ee4bb26dd33355150a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Group_010
+    second: {fileID: 2100000, guid: 79d6035ef02fb074380d61e8de17dee5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Group_011
+    second: {fileID: 2100000, guid: c1298dee2846be54fbb4f88f8264b940, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Group_012
+    second: {fileID: 2100000, guid: 1cc3f65336019ad459bf1dd504e843de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Group_013
+    second: {fileID: 2100000, guid: a7c3e946f3e42b545b391aaa5f4a47c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Group_015
+    second: {fileID: 2100000, guid: 2ee7d690f4d68574cb279a7b7dfcebb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Group_016
+    second: {fileID: 2100000, guid: aee44ad3e87eebf4285cdb0695a82578, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Group_018
+    second: {fileID: 2100000, guid: fe90956d9673efc46a8cd8a3154a2c74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Group_019
+    second: {fileID: 2100000, guid: 3eba2174442c1a3408f98e29b3d24800, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Layer0_001
+    second: {fileID: 2100000, guid: a8f7a886221fb9a4ba41d0846e59a565, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Layer0_002
+    second: {fileID: 2100000, guid: 87f03cc912429c947a208f27ef656f39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Layer0_003
+    second: {fileID: 2100000, guid: 688b2e2bf1662814caf29c9fab11272b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Layer0_004
+    second: {fileID: 2100000, guid: 661de8a56fa36124c9edea5dfae57bc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Layer0_005
+    second: {fileID: 2100000, guid: 31e3d7d3b28d286418fcde44bb1a7049, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Layer0_006
+    second: {fileID: 2100000, guid: 1fe50f0124b6bb2468dd762c0362e380, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Layer0_007
+    second: {fileID: 2100000, guid: 074865fd5e84fba409b4755e53233b36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Layer0_008
+    second: {fileID: 2100000, guid: af8b536a126c9074890f1e7e3c7832ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Layer0_009
+    second: {fileID: 2100000, guid: 62aa871451d63014792e517c2b55c916, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Layer0_010
+    second: {fileID: 2100000, guid: f513c787c1f7ff949824f2fa72983a9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Layer0_011
+    second: {fileID: 2100000, guid: 0c4e03e81e930084d938462aaa38cbe4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_ske1CF_001
+    second: {fileID: 2100000, guid: a094974b8b1b6484da1817d46d497795, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_ske1CF_002
+    second: {fileID: 2100000, guid: 5aefde84a3c377f4dbc8fe81cf556703, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
