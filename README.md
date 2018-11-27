@@ -5,3 +5,5 @@ ARFlight is an ARKit (iOS) and UWP (HoloLens) project that allows the user to ch
 The project was developed at the Hackaton called HackUPC in 48h. We used Unity engine, MapBox to render Europe's map and an iPad Pro and a HoloLens as deployment target. Since we joined SkyScanner's content, we also used their API to retrieve all the necessary data, like airport locations and flight prices.
 
 ![alt text](https://i.imgur.com/s79SyIO.jpg)
+
+![alt text](https://i.imgur.com/H4mSoYr.jpg)
